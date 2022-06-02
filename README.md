@@ -5,9 +5,10 @@
 <h2>C🦠vidia: COVID-19 Interdisciplinary Academic Knowledge Graph</h2>
 </div>
 
-***FYI: The system [Covidia](https://covidia.acemap.info/) is currently being upgraded during 2022-05-27 ~ 2022-06-01 AOE***
+~~***FYI: The system [Covidia](https://covidia.acemap.info/) is currently being upgraded during 2022-05-27 ~ 2022-06-01 AOE***~~
+***FYI: The system [Covidia](https://covidia.acemap.info/) has some anomalies, due to the network reconstruction of Shanghai Jiaotong University during 2022-06-02 ~ 2022-06-06***
 
-After that, The SPARQL Endpoint will be **[https://covidia.acemap.info/sparql](https://covidia.acemap.info/sparql)**
+The SPARQL Endpoint is **[https://covidia.acemap.info/sparql](https://covidia.acemap.info/sparql)**
 
 ## Overview
 
