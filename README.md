@@ -63,6 +63,9 @@ In addition, we have a sustainability plan specified for long-term maintenance o
 
 All the supplements can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1mWok37-QbLp15daoORekjDANqoek0f3N?usp=share_link)
 
+## TODO
+**Notice: More detail about Covidia will be released soon!!!**
+
 ## Citation
 
 We now have a [paper](https://arxiv.org/abs/2304.07242v1) under review on ISWC Applied Research Track:
