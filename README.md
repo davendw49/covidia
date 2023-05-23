@@ -56,7 +56,7 @@ Based on Covidia, we put forward serveral resources, including a COVID-19 interd
 
 In addition, we have a sustainability plan specified for long-term maintenance of Covidia under the MIT License. The URI of each instance from Covidia is reachable, to meet the needs of Linked Open Data.
 
-**Notice: Due to the adjustment of the education network, our dataset will be re-opened for download on May 20th**
+**Notice: Our datasets has been ready on May 22th**
 
  
 ## Covidia Dumps and Related Code
