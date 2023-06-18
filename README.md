@@ -76,7 +76,11 @@ In addition, we have a sustainability plan specified for long-term maintenance o
 
 ## Link to Wiki and DBpedia
 
-- [ ] Coming soon ...
+- [ ] Coming soon (6.20)...
+
+## Usage and Handbook
+
+- [ ] Coming soon (6.20)...
 
 ## Covidia Dumps and Related Code
 
