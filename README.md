@@ -8,7 +8,8 @@
 </div>
 </p>
 
-The SPARQL Endpoint is **[https://covidia.acemap.info/sparql](https://covidia.acemap.info/sparql)**
+- The SPARQL Endpoint is **[https://covidia.acemap.info/sparql](https://covidia.acemap.info/sparql)**
+- The permanent data access point is **[https://dataset.acemap.info/covidia/covidia-dump-v1-05-22](https://dataset.acemap.info/covidia/covidia-dump-v1-05-22)**
 
 ## Overview
 
@@ -76,7 +77,9 @@ In addition, we have a sustainability plan specified for long-term maintenance o
 
 ## Link to Wiki and DBpedia
 
-- [ ] Coming soon (6.20)...
+See `alignment`:
+- `entityLinking_db.txt` collects the entities that we use for the knowledge points extraction
+- `sameAs_wiki.txt` collects the entities that we use for axios `<http://www.w3.org/2002/07/owl#sameAs>`
 
 ## Usage and Hands-on
 
@@ -86,8 +89,8 @@ In addition, we have a sustainability plan specified for long-term maintenance o
 - [KG Augmented QA System](https://covidia.acemap.info/#/qa): The users can try some question related to COVID-19. On the right of the panel we can see the `tools provided`, which the users can choose for the engine for augments. If the user chooses `covidia_search`, the KG provided by Covidia is the augmentation, while the `bing_search` uses Bing customer search API for the augmentation.
 - For [Covidia SPARQL Endpoint](http://covidia.acemap.info/sparql) and [Covidia Semantic Search](https://snorql.acemap.cn/Covidia): The user can use sparql to query the structure data from the Covidia.
 
-Here we will provide a video for detail introduction (the video will be on before 6.20 AOE).
-
+For more detail, we now introduce the Covidia platform:
+[![Covidia Application](https://img.youtube.com/vi/1lZK1HAW7Io/hqdefault.jpg)](https://youtu.be/1lZK1HAW7Io "Covidia Platform")
 
 ## Covidia Dumps and Related Code
 
